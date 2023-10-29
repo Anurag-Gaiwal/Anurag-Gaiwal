@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anurag gaiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag gaiwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag gaiwal" target="blank"><img align="center" src="![image](https://github.com/Anurag-Gaiwal/Anurag-Gaiwal/assets/123549836/78d593d7-1036-4d56-82e2-cbb5610af0a4)
+" alt="anurag gaiwal" height="30" width="40" /></a>
 <a href="https://instagram.com/_anurag._.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anurag._.07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@anurag7782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anurag7782" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuraggaiwal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuraggaiwal0" height="30" width="40" /></a>
