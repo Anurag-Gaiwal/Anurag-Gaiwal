@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-gaiwal" alt="anurag-gaiwal" /></a> </p>
 
-- 🔭 I’m currently working on [Swadesi Wear](https://www.swadesiwear.com/)
-
 - 🌱 I’m currently learning **Advanced Data Structures, Cypress**
 
 - 👨‍💻 All of my projects are available at [https://anuraggaiwal.web.app/](https://anuraggaiwal.web.app/)
